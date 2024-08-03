@@ -1,0 +1,13 @@
+#panel {
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem;
+}
+
+.profilePanelImage {
+  width: 12rem;
+  height: 12rem;
+  border-radius: 6rem;
+}

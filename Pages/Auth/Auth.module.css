@@ -1,0 +1,12 @@
+.auth-page {
+  height: calc(100vh - 64px);
+  padding: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.auth-box {
+  width: 80vh;
+  text-align: center;
+  margin: auto;
+}

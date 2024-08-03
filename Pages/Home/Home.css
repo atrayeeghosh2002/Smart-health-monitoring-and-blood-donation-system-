@@ -1,0 +1,24 @@
+#homeContainer {
+  display: flex;
+}
+
+#sidePanel {
+  padding: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background: #f0f7fa;
+}
+
+.question {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  background: white;
+}
+
+.planelDonateHeading {
+  background: white;
+}
